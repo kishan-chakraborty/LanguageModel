@@ -3,3 +3,6 @@ myVenv/
 
 # IDE-specific files
 .vscode/
+
+# Research paper
+bengio03a.pdf
